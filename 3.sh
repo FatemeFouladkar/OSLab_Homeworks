@@ -1,0 +1,3 @@
+uptime --since
+who -b
+

@@ -1,0 +1,3 @@
+hostname -I
+ip addr
+
