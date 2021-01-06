@@ -28,4 +28,4 @@
 	
 	\alpha \beta \sigma \int \iint \infty \lim \times \sin \cos ...
 
-9. to write a specific code in a specific language use \begin{lstlisting}[LanguageName] ---CODE--- \end{lstlisting}
+9. to write a specific code in a specific language use \begin{lstlisting}[LanguageName] ---CODE--- \end{lstlisting} 
